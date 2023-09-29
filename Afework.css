@@ -1,0 +1,53 @@
+#img {
+    display: inline-block;
+}
+.img-1 {
+    width:600px;
+    margin-bottom: 6px;
+    vertical-align: bottom;
+    margin-top: 10px;
+}
+.img-3 {
+    height:574px;
+    vertical-align: top;
+    margin-top:10px;
+}
+.img-4 {
+    height: 562px;
+    vertical-align: top;
+    margin-top:10px;
+}
+.img-5 {
+    height: 575px;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+.img-6 {
+    height: 575px;
+    vertical-align: top;
+    margin-bottom:5px;
+    margin-top:10px;
+}
+.img-7 {
+    width: 600px;
+    margin-top:10px;
+}
+.img-8 {
+    height:500px;
+    vertical-align: bottom;
+    margin-bottom: 4px;
+}
+.img-9 {
+    height: 575px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.traning-5{
+    display: block;
+    margin-top:10px;
+}
+.work-experience-2 {
+    height:575px;
+    margin-bottom:5px;
+    vertical-align: bottom;
+}
